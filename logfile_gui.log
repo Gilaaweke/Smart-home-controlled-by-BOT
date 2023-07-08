@@ -1,0 +1,11 @@
+2023-04-03 20:18:32,166 : ERROR : __main__ : GUI Crash!
+Traceback (most recent call last):
+  File "C:\Users\gawake\IOT\SmartHome\gui.py", line 475, in <module>
+    mainwin = MainWindow()
+              ^^^^^^^^^^^^
+  File "C:\Users\gawake\IOT\SmartHome\gui.py", line 464, in __init__
+    self.plotsDock = PlotDock()
+                     ^^^^^^^^^^
+  File "C:\Users\gawake\IOT\SmartHome\gui.py", line 424, in __init__
+    for row in rez:
+TypeError: 'NoneType' object is not iterable

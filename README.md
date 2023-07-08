@@ -1,2 +1,2 @@
-# Smart-home-controlled-by-BOT
-]
+# SmartHome
+Smart Home Manager GUI
